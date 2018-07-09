@@ -1,4 +1,12 @@
 #!/bin/bash
+<<property
+Autor:Stephen Dove
+Compania:ISN
+App:File System Creator
+Version:1.0
+Revision:27032018
+property
+
 echo 'BackingUp Sentora';
 read -p "Server: " srv
 read -p "User: " usr
